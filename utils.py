@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------
 # Contains functions to access a Gmail mailbox, extract e-mails,
-# storing them in a pandas dataframe and saving it do a xlsx file.
+# storing them in a pandas dataframe and saving it to a xlsx file.
 #
 # (C) 2022 Bruno Leal, Sertã, Portugal
 # ------------------------------------------------------------------
